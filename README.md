@@ -26,3 +26,7 @@ ADD FILTER
     
 
 ![WeatherPy_vacation_map](World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png)
+
+![WeatherPy_travel_map](World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+![WeatherPy_travel_map_markers](World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
