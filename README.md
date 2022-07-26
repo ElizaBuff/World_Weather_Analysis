@@ -25,4 +25,4 @@ ADD FILTER
 
     
 
-![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.png)
+![WeatherPy_vacation_map](World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png)
